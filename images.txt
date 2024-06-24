@@ -1,6 +1,89 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+
+# Docker中运行Windows
+# dockurr/windows
+
+# python:3.9.20-alpine3.20
+# python:3.11.11-bullseye
+# python:3.11-slim
+
+# golang
+# golang:1.19
+
+# openjdk:8-jre
+
+# Clash
+# haishanh/yacd
+
+# selenium/standalone-chrome:130.0-chromedriver-130.0
+# selenium/hub:latest
+# selenium/node-chrome:130.0
+# selenium/node-firefox:132.0
+# selenium/standalone-firefox:132.0
+
+# zerotier/zerotier
+
+# minio
+# bitnami/minio:latest
+# bitnami/minio-client
+
+# dify
+# langgenius/dify-api:0.15.2
+# langgenius/dify-web:0.15.2
+# langgenius/dify-sandbox:0.2.10
+# ubuntu/squid:latest
+# semitechnologies/weaviate:1.19.0
+
+# gitea/gitea:1.22
+# gitea/act_runner:latest
+# gitea/runner-images:ubuntu-latest
+# node:16-bullseye
+# node:20-slim
+
+# ubuntu:18.04
+# ubuntu:22.04
+# ubuntu:24.10
+
+# postgres:15
+# postgres:16
+# dpage/pgadmin4:latest
+# postgis/postgis:16-3.5
+
+# odoo:12
+# odoo:13
+# odoo:14
+# odoo:15
+# odoo:16
+# odoo:17
+# odoo:18
+
+# redis:latest
+# nginx:stable-alpine
+# nginx:latest
+
+# olbat/cupsd:latest
+
+# ghcr.io/coder/coder:latest
+
+# grafana/grafana:latest
+# grafana/loki:latest
+# grafana/promtail:latest
+# prom/prometheus:latest
+# gcr.io/cadvisor/cadvisor:latest
+
+# catthehacker/ubuntu:act-latest
+ 
+neosmemo/memos:stable
+
+# ollama/ollama:latest
+
+
+# jumpserver/jms_all:latest
+# mysql:8.0
+
+# moby/buildkit
