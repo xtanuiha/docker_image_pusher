@@ -5,12 +5,14 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+bestoray/pgyserver
+
 #gitea/gitea:1.22
 #gitea/act_runner:latest
 
-ubuntu:18.04
-ubuntu:22.04
-ubuntu:24.10
+#ubuntu:18.04
+#ubuntu:22.04
+#ubuntu:24.10
 
 #postgres:15
 #postgres:16
@@ -21,7 +23,7 @@ ubuntu:24.10
 #odoo:14
 #odoo:15
 #odoo:16
-odoo:17
+#odoo:17
 
 #redis:latest
 #nginx:stable-alpine
