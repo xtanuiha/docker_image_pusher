@@ -5,7 +5,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-bestoray/pgyserver
+# 蒲公英
+#bestoray/pgyserver
+
+# minio
+bitnami/minio:latest
+bitnami/minio-client
+
 
 #gitea/gitea:1.22
 #gitea/act_runner:latest
