@@ -9,9 +9,15 @@
 #bestoray/pgyserver
 
 # minio
-bitnami/minio:latest
-bitnami/minio-client
+#bitnami/minio:latest
+#bitnami/minio-client
 
+# dify
+langgenius/dify-api:0.7.3
+langgenius/dify-web:0.7.3
+langgenius/dify-sandbox:0.2.6
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
 
 #gitea/gitea:1.22
 #gitea/act_runner:latest
