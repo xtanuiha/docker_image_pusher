@@ -5,6 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+python:3.9.20-alpine3.20
+
 # 蒲公英
 #bestoray/pgyserver
 
@@ -13,9 +15,9 @@
 #bitnami/minio-client
 
 # dify
-langgenius/dify-api:0.8.2
-langgenius/dify-web:0.8.2
-langgenius/dify-sandbox:0.2.9
+# langgenius/dify-api:0.8.2
+# langgenius/dify-web:0.8.2
+# langgenius/dify-sandbox:0.2.9
 # ubuntu/squid:latest
 # semitechnologies/weaviate:1.19.0
 
