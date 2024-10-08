@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-python:3.9.20-alpine3.20
+# python:3.9.20-alpine3.20
 
 # 蒲公英
 #bestoray/pgyserver
@@ -38,6 +38,7 @@ python:3.9.20-alpine3.20
 #odoo:15
 #odoo:16
 #odoo:17
+odoo:18
 
 #redis:latest
 #nginx:stable-alpine
