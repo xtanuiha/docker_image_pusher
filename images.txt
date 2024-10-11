@@ -8,7 +8,7 @@
 # python:3.9.20-alpine3.20
 
 wechaty/wechaty:0.65
-wechaty/wechaty:1.2
+wechaty/wechaty:1.20
 
 # 蒲公英
 #bestoray/pgyserver
