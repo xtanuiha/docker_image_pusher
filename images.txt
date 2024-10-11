@@ -7,6 +7,9 @@
 
 # python:3.9.20-alpine3.20
 
+wechaty/wechaty:0.65
+wechaty/wechaty:1.2
+
 # 蒲公英
 #bestoray/pgyserver
 
@@ -38,7 +41,7 @@
 #odoo:15
 #odoo:16
 #odoo:17
-odoo:18
+#odoo:18
 
 #redis:latest
 #nginx:stable-alpine
