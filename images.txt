@@ -6,9 +6,10 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # python:3.9.20-alpine3.20
+python:3.9-alpine
 
-wechaty/wechaty:0.65
-wechaty/wechaty:1.20
+# wechaty/wechaty:0.65
+# wechaty/wechaty:1.20
 
 # 蒲公英
 #bestoray/pgyserver
