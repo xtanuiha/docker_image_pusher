@@ -5,8 +5,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+# Docker中运行Windows
+dockurr/windows
+
 # python:3.9.20-alpine3.20
-ubuntu/python:3.10-22.04
+# ubuntu/python:3.10-22.04
 
 # wechaty/wechaty:0.65
 # wechaty/wechaty:1.20
