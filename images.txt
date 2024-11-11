@@ -6,13 +6,12 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # Docker中运行Windows
-dockurr/windows
+# dockurr/windows
 
 # python:3.9.20-alpine3.20
 # ubuntu/python:3.10-22.04
 
-# wechaty/wechaty:0.65
-# wechaty/wechaty:1.20
+selenium/standalone-chrome:130.0-chromedriver-130.0
 
 # 蒲公英
 #bestoray/pgyserver
