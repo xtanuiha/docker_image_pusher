@@ -12,8 +12,9 @@
 # ubuntu/python:3.10-22.04
 
 # selenium/standalone-chrome:130.0-chromedriver-130.0
-selenium/hub:latest
-selenium/node-chrome:130.0
+# selenium/hub:latest
+# selenium/node-chrome:130.0
+selenium/standalone-firefox:132.0
 
 # 蒲公英
 #bestoray/pgyserver
