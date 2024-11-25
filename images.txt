@@ -14,7 +14,7 @@
 # selenium/standalone-chrome:130.0-chromedriver-130.0
 # selenium/hub:latest
 # selenium/node-chrome:130.0
-selenium/standalone-firefox:132.0
+# selenium/standalone-firefox:132.0
 
 # 蒲公英
 #bestoray/pgyserver
@@ -40,6 +40,7 @@ selenium/standalone-firefox:132.0
 #postgres:15
 #postgres:16
 #dpage/pgadmin4:latest
+postgis/postgis:16-3.5
 
 #odoo:12
 #odoo:13
