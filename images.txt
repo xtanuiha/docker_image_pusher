@@ -14,7 +14,7 @@
 # selenium/standalone-chrome:130.0-chromedriver-130.0
 # selenium/hub:latest
 # selenium/node-chrome:130.0
-selenium/node-firefox:132.0
+# selenium/node-firefox:132.0
 # selenium/standalone-firefox:132.0
 
 # 蒲公英
@@ -33,6 +33,7 @@ selenium/node-firefox:132.0
 
 #gitea/gitea:1.22
 #gitea/act_runner:latest
+node:16-bullseye
 
 #ubuntu:18.04
 #ubuntu:22.04
