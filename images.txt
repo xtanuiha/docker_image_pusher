@@ -9,7 +9,7 @@
 # dockurr/windows
 
 # python:3.9.20-alpine3.20
-# ubuntu/python:3.10-22.04
+ubuntu/python:3.10-22.04
 
 # selenium/standalone-chrome:130.0-chromedriver-130.0
 # selenium/hub:latest
@@ -17,7 +17,7 @@
 # selenium/node-firefox:132.0
 # selenium/standalone-firefox:132.0
 
-zerotier/zerotier
+# zerotier/zerotier
 
 # minio
 # bitnami/minio:latest
