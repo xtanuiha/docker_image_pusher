@@ -11,6 +11,8 @@
 # python:3.9.20-alpine3.20
 # ubuntu/python:3.10-22.04
 
+golang
+
 # selenium/standalone-chrome:130.0-chromedriver-130.0
 # selenium/hub:latest
 # selenium/node-chrome:130.0
@@ -24,9 +26,9 @@
 # bitnami/minio-client
 
 # dify
-langgenius/dify-api:0.14.2
-langgenius/dify-web:0.14.2
-langgenius/dify-sandbox:0.2.10
+# langgenius/dify-api:0.14.2
+# langgenius/dify-web:0.14.2
+# langgenius/dify-sandbox:0.2.10
 # ubuntu/squid:latest
 # semitechnologies/weaviate:1.19.0
 
