@@ -24,9 +24,9 @@
 # bitnami/minio-client
 
 # dify
-# langgenius/dify-api:0.8.2
-# langgenius/dify-web:0.8.2
-# langgenius/dify-sandbox:0.2.9
+langgenius/dify-api:0.14.2
+langgenius/dify-web:0.14.2
+langgenius/dify-sandbox:0.2.10
 # ubuntu/squid:latest
 # semitechnologies/weaviate:1.19.0
 
@@ -34,7 +34,6 @@
 # gitea/act_runner:latest
 # gitea/runner-images:ubuntu-latest
 # node:16-bullseye
-getsentry/sentry
 
 # ubuntu:18.04
 # ubuntu:22.04
