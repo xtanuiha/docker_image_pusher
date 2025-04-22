@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.13
+odoo:18
