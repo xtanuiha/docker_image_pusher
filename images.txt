@@ -1,1 +1,1 @@
-odoo:18
+easytier/easytier:v2.3.1
