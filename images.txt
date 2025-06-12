@@ -1,1 +1,1 @@
-easytier/easytier:v2.3.1
+prom/blackbox-exporter
