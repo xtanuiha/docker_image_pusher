@@ -1,1 +1,1 @@
-prom/blackbox-exporter
+linuxserver/fail2ban:1.1.0
