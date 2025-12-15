@@ -1,5 +1,7 @@
-langgenius/dify-api:1.9.1
-langgenius/dify-web:1.9.1
-langgenius/dify-plugin-daemon:0.3.0-local
-odoo:18
-odoo:19
+# langgenius/dify-api:1.9.1
+# langgenius/dify-web:1.9.1
+# langgenius/dify-plugin-daemon:0.3.0-local
+# odoo:18
+# odoo:19
+
+python:3.10-slim
