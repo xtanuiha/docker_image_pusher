@@ -5,8 +5,9 @@
 # odoo:19
 
 # postgres:17-3.5
+pgvector/pgvector:pg17
 
 # python:3.10-slim
 
-nginx:alpine
-certbot/certbot
+# nginx:alpine
+# certbot/certbot
