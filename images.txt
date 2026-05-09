@@ -1,7 +1,12 @@
 # langgenius/dify-api:1.9.1
 # langgenius/dify-web:1.9.1
 # langgenius/dify-plugin-daemon:0.3.0-local
-odoo:18
+
+catthehacker/ubuntu:act-latest
+
+
+odoo:17
+# odoo:18
 # odoo:19
 
 # postgres:17-3.5
